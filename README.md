@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @shailesh-katonic
+- 👀 I’m interested in Machine Learning, AI, Data Science.
+- 🌱 I’m currently learning Minio.
+- 💞️ I’m looking to collaborate on Real-World ML Projects, Package Development
+- 📫 How to reach me: 
+  - :bulb: [Medium articles](https://medium.com/@shailesh-kumar)
+  - :office: [LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b)
