@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shailesh-katonic
+- 👋 Hi, I’m Shailesh Kumar
 - 👀 I’m interested in Machine Learning, AI, Data Science.
 - 🌱 I’m currently learning Model Explainability.
 - 💞️ I’m looking to collaborate on Real-World ML Projects, Package Development.
